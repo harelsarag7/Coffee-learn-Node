@@ -1,0 +1,51 @@
+[
+  {
+    "id": 3,
+    "code": 100,
+    "type": "Vanilla",
+    "price": 60,
+    "strength": 2
+  },
+  {
+    "id": 4,
+    "code": 120,
+    "type": "Arabica",
+    "price": 25,
+    "strength": 3
+  },
+  {
+    "id": 5,
+    "code": 120,
+    "type": "Arabica",
+    "price": 25,
+    "strength": 3
+  },
+  {
+    "id": 6,
+    "code": 100,
+    "type": "Vanilla",
+    "price": 200,
+    "strength": 4
+  },
+  {
+    "id": 7,
+    "code": 200,
+    "type": "Vanilla",
+    "price": 50,
+    "strength": 3
+  },
+  {
+    "id": 8,
+    "code": 200,
+    "type": "Vanilla",
+    "price": 30,
+    "strength": 4
+  },
+  {
+    "id": 9,
+    "code": 200,
+    "type": "Vanilla",
+    "price": 0,
+    "strength": 4
+  }
+]
